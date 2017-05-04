@@ -9,7 +9,8 @@ I apologise for this but I wasn’t expecting to release it.
 1.	Layers: 2
 2.	PCB Thickness: 1.0mm (This is important!)
 3.	Copper Weight: 1oz
-4.	Surface Finish: Lead free HASL. (ENIG would be better but costs more)
+4.      PCB size: 10cm Max * 16cm Max +$28.50
+5.	Surface Finish: Lead free HASL. (ENIG would be better but costs more)
 
 The PCB fab I used for the main PCB is Elecrow (http://www.elecrow.com/). I am not affiliated with them in anyway.
 If you decide to use this company, I specifically used this service:
